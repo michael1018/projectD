@@ -1,2 +1,3 @@
 # projectD
-- Edit by Michael in 2019/03/11
+- Edit by Michael on 2019/03/11 for demo
+- Update on Github by Michael
